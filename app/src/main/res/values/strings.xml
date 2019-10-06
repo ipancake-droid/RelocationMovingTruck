@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Relocation Moving Truck</string>
+    <string name="hint1">Truck Size</string>
+    <string name="hint2">Number of Miles</string>
+    <string name="imgDescription">Truck Size Image</string>
+    <string name="btnCost">CALCULATE PRICE</string>
+</resources>
